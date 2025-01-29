@@ -4,4 +4,4 @@ now i add the program that can control Tv like incrise the volium and shotdown t
 i added the new project that called to display on LCD and its simple c code 
 i try to add the microcontroler code that can control the visiblity of numbers in keypad
 this is simple port
-and i try to update the code .
+and i try to update the code 
