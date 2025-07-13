@@ -1,4 +1,4 @@
-..//lcd module connections
+.//lcd module connections
    sbit LCD_RS at RC0_bit;
    sbit LCD_EN at RC1_bit;
    sbit LCD_D4 at RC2_bit;
